@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gasdopovocampogrande.com.br/sitemap.xml

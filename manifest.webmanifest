@@ -1,0 +1,10 @@
+{
+  "name": "Gás do Povo — Campo Grande/MS",
+  "short_name": "Gás do Povo CG",
+  "description": "Informações sobre o Programa Gás do Povo em Campo Grande/MS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#1351B4",
+  "lang": "pt-BR"
+}
